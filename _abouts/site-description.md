@@ -2,8 +2,7 @@
 title: description
 lang: en
 ---
-This is a no-code test to build a site with MOREL, specifically to change the site-description. MOREL generates web sites from bibliographic collections. The MOREL sites gather book covers, excerpts, bibliographic clues, metadata and digital downloads from items stored in the Zotero reference manager.
-
+Welcome to Black Latin American Writers In Translation, an oganization and digital project that highlights the historical works of Black Latin American writers and their translated works. 
 <!-- more -->
 
 Works are organized by dynamic lists, which automatically group the works according to common characteristics:
